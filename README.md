@@ -6,4 +6,4 @@
 
 
 
-Arvix: '[**EmoDiff: Future Motion Simulation via Event Sequence Diffusion**]()'.
+Arvix: [**EmoDiff: Future Motion Simulation via Event Sequence Diffusion**]().
