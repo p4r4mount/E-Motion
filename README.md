@@ -6,4 +6,4 @@
 
 
 
-Arvix: [**E-Motion: Future Motion Simulation via Event Sequence Diffusion**]().
+Arvix: [**E-Motion: Future Motion Simulation via Event Sequence Diffusion**](https://arxiv.org/abs/2410.08649).
