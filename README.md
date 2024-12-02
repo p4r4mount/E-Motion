@@ -19,6 +19,12 @@ conda env create -f environment.yml
 
 
 
+## 💡 Pre-trained weights 
+
+Google Drive: [Checkpoint](https://drive.google.com/drive/folders/1oeuoCFYm5sdmrCqHtulmiHpoEqNrg5ll?usp=drive_link)
+
+
+
 ## 🚀 Inference
 
 ```bash
@@ -26,4 +32,3 @@ python predict.py --model_path /path/to/model/checkpoint \
                   --data_path /path/to/data/file.npy \
                   --output_path /path/to/output/directory
 ```
-
